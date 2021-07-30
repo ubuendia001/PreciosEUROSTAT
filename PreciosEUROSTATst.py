@@ -97,6 +97,3 @@ st.table(tab_graf_2_styler)
 
 link_2 = crear_link(tab_graf_2, 'Descarga.csv','Descargar csv')
 st.markdown(link_2, unsafe_allow_html=True)
-
-# cd C:\Users\urkob\OneDrive - Ente Vasco de la Energia\EUROSTAT\PRECIOS ELECTRICIDAD Y GN
-# streamlit run PreciosEUROSTATst.py
